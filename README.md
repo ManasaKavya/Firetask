@@ -1,5 +1,5 @@
 FireTask – Real-Time Team Task Manager is a collaborative productivity application designed to help teams create, assign, and track tasks in real time. Built using Firebase, it leverages services like Firestore for live data updates, Authentication for secure user access, and Cloud Functions for automated workflows.
-The app allows users to organize tasks, view team progress, and receive instant notifications whenever changes are made. With its responsive interface (built using React), FireTask ensures seamless collaboration, improved task visibility, and efficient project management for teams working together.
+The app allows users to organize tasks, view team progress, and receive instant notifications whenever changes are made. With its responsive interface (built using React), FireTask ensures collaboration, improved task visibility, and efficient project management for teams working together.
 # Getting Started with Create React App
 
 
